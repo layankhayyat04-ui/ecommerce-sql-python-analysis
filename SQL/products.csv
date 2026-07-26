@@ -1,0 +1,251 @@
+product_id,category,unit_price,weight_g
+1,Furniture,826.88,3680
+2,Toys & Games,120.72,2147
+3,Fashion,51.08,5956
+4,Toys & Games,95.98,6886
+5,Toys & Games,88.33,1907
+6,Sports & Outdoors,251.86,748
+7,Toys & Games,136.48,5222
+8,Beauty & Personal Care,6.03,4332
+9,Mobile Accessories,82.19,6715
+10,Sports & Outdoors,26.93,2432
+11,Furniture,685.7,6725
+12,Sports & Outdoors,94.84,3482
+13,Beauty & Personal Care,31.08,7091
+14,Home & Kitchen,94.71,1594
+15,Fashion,114.86,2472
+16,Home & Kitchen,90.17,5317
+17,Groceries,29.84,5160
+18,Groceries,17.37,2329
+19,Mobile Accessories,11.93,4130
+20,Beauty & Personal Care,71.62,2726
+21,Electronics,285.75,1346
+22,Electronics,412.18,4482
+23,Electronics,629.48,1623
+24,Home & Kitchen,89.79,2411
+25,Sports & Outdoors,28.3,1124
+26,Groceries,16.21,6056
+27,Electronics,852.23,2007
+28,Home & Kitchen,164.02,1334
+29,Electronics,617.47,4143
+30,Beauty & Personal Care,58.74,2900
+31,Toys & Games,34.65,2652
+32,Groceries,17.9,3142
+33,Groceries,30.54,5809
+34,Electronics,127.18,2805
+35,Home & Kitchen,76.68,7010
+36,Fashion,55.53,559
+37,Sports & Outdoors,136.42,6454
+38,Toys & Games,147.17,684
+39,Furniture,136.95,3951
+40,Fashion,97.22,1674
+41,Sports & Outdoors,63.66,6794
+42,Toys & Games,145.78,6885
+43,Electronics,137.44,1099
+44,Beauty & Personal Care,39.31,3252
+45,Groceries,30.04,2124
+46,Electronics,645.92,1731
+47,Groceries,18.06,6123
+48,Home & Kitchen,93.17,4369
+49,Beauty & Personal Care,38.8,3973
+50,Toys & Games,44.06,5682
+51,Sports & Outdoors,71.14,7769
+52,Books & Stationery,30.53,1399
+53,Electronics,270.94,6200
+54,Furniture,387.71,4367
+55,Home & Kitchen,167.62,2175
+56,Groceries,38.8,5330
+57,Sports & Outdoors,185.85,1727
+58,Books & Stationery,7.39,7370
+59,Electronics,105.0,7175
+60,Beauty & Personal Care,85.87,1025
+61,Beauty & Personal Care,30.27,5284
+62,Toys & Games,19.26,2758
+63,Electronics,555.18,1471
+64,Sports & Outdoors,191.61,4889
+65,Home & Kitchen,165.64,3342
+66,Beauty & Personal Care,27.73,173
+67,Electronics,53.0,4860
+68,Groceries,38.67,5739
+69,Mobile Accessories,33.1,1369
+70,Books & Stationery,41.53,6414
+71,Home & Kitchen,179.59,2137
+72,Fashion,112.92,4195
+73,Home & Kitchen,85.1,5719
+74,Mobile Accessories,35.45,2872
+75,Electronics,553.99,589
+76,Books & Stationery,52.37,5380
+77,Fashion,170.84,5845
+78,Furniture,180.73,6583
+79,Home & Kitchen,47.16,1130
+80,Groceries,37.9,2006
+81,Books & Stationery,44.98,4674
+82,Books & Stationery,53.33,6698
+83,Groceries,9.7,6106
+84,Beauty & Personal Care,54.94,274
+85,Toys & Games,106.96,3034
+86,Fashion,124.98,2153
+87,Electronics,391.01,4075
+88,Groceries,2.59,4679
+89,Sports & Outdoors,179.88,4546
+90,Groceries,11.62,1654
+91,Mobile Accessories,56.23,1628
+92,Furniture,1151.64,2948
+93,Books & Stationery,25.75,6099
+94,Groceries,33.91,2355
+95,Mobile Accessories,25.87,7591
+96,Furniture,826.6,1413
+97,Home & Kitchen,244.48,4451
+98,Fashion,25.53,3781
+99,Sports & Outdoors,14.4,6812
+100,Sports & Outdoors,136.87,4536
+101,Books & Stationery,8.28,3819
+102,Electronics,683.61,6456
+103,Furniture,1102.59,3205
+104,Fashion,82.65,7332
+105,Electronics,262.49,5176
+106,Books & Stationery,27.76,6457
+107,Mobile Accessories,87.92,2056
+108,Books & Stationery,3.52,6006
+109,Home & Kitchen,151.47,5492
+110,Furniture,759.15,6809
+111,Toys & Games,97.83,1655
+112,Furniture,335.91,5696
+113,Groceries,29.13,6372
+114,Furniture,164.19,1362
+115,Mobile Accessories,27.12,2419
+116,Books & Stationery,53.02,3457
+117,Books & Stationery,45.11,1004
+118,Home & Kitchen,13.3,4386
+119,Home & Kitchen,69.61,458
+120,Fashion,44.88,1563
+121,Electronics,272.89,1755
+122,Home & Kitchen,69.41,4076
+123,Beauty & Personal Care,10.31,908
+124,Electronics,434.69,4777
+125,Toys & Games,111.51,5489
+126,Groceries,25.06,4407
+127,Mobile Accessories,82.05,5845
+128,Mobile Accessories,13.41,2196
+129,Electronics,858.28,3101
+130,Beauty & Personal Care,76.27,5063
+131,Home & Kitchen,203.22,207
+132,Beauty & Personal Care,74.95,5471
+133,Groceries,37.44,7705
+134,Home & Kitchen,140.62,3934
+135,Electronics,212.24,3056
+136,Furniture,763.13,6190
+137,Toys & Games,112.97,6834
+138,Books & Stationery,45.06,6606
+139,Electronics,488.45,6847
+140,Mobile Accessories,11.94,2277
+141,Furniture,483.07,433
+142,Home & Kitchen,230.98,6935
+143,Sports & Outdoors,180.32,738
+144,Beauty & Personal Care,50.76,7969
+145,Furniture,366.49,895
+146,Home & Kitchen,98.43,6040
+147,Beauty & Personal Care,81.1,4455
+148,Toys & Games,101.97,1652
+149,Beauty & Personal Care,71.93,4410
+150,Beauty & Personal Care,43.62,4769
+151,Fashion,116.4,4674
+152,Furniture,343.16,3501
+153,Home & Kitchen,179.31,6377
+154,Mobile Accessories,53.6,3032
+155,Groceries,18.82,5855
+156,Toys & Games,99.5,7332
+157,Home & Kitchen,234.71,1466
+158,Fashion,19.01,4605
+159,Toys & Games,124.76,4234
+160,Books & Stationery,19.67,5486
+161,Fashion,84.35,4473
+162,Mobile Accessories,6.54,3729
+163,Books & Stationery,20.16,7493
+164,Books & Stationery,31.65,4606
+165,Books & Stationery,6.2,7021
+166,Books & Stationery,30.99,3477
+167,Toys & Games,139.5,6867
+168,Books & Stationery,9.01,5084
+169,Beauty & Personal Care,69.98,4713
+170,Furniture,527.03,1852
+171,Toys & Games,100.35,6372
+172,Furniture,356.67,7686
+173,Sports & Outdoors,57.93,3049
+174,Groceries,8.1,3765
+175,Toys & Games,16.15,101
+176,Electronics,199.66,2430
+177,Mobile Accessories,81.05,233
+178,Furniture,1065.13,1206
+179,Sports & Outdoors,246.47,153
+180,Sports & Outdoors,209.32,1917
+181,Beauty & Personal Care,14.39,7110
+182,Books & Stationery,19.48,277
+183,Sports & Outdoors,101.22,7629
+184,Furniture,344.95,4288
+185,Furniture,647.11,4774
+186,Mobile Accessories,66.12,1367
+187,Home & Kitchen,95.65,409
+188,Groceries,15.44,3013
+189,Fashion,150.51,1233
+190,Sports & Outdoors,239.32,3107
+191,Mobile Accessories,39.7,2146
+192,Beauty & Personal Care,82.67,2199
+193,Sports & Outdoors,286.41,852
+194,Mobile Accessories,41.9,3375
+195,Mobile Accessories,45.11,7619
+196,Beauty & Personal Care,47.98,6115
+197,Home & Kitchen,235.87,6027
+198,Books & Stationery,52.95,6595
+199,Groceries,5.9,1516
+200,Groceries,16.92,6864
+201,Mobile Accessories,68.19,6813
+202,Home & Kitchen,130.75,4976
+203,Sports & Outdoors,67.83,406
+204,Mobile Accessories,103.62,3225
+205,Home & Kitchen,172.47,6490
+206,Electronics,760.6,7651
+207,Books & Stationery,51.95,2950
+208,Toys & Games,113.76,3512
+209,Home & Kitchen,115.41,7225
+210,Beauty & Personal Care,56.9,6224
+211,Mobile Accessories,22.6,7707
+212,Electronics,619.34,5292
+213,Toys & Games,31.81,543
+214,Sports & Outdoors,211.86,4395
+215,Electronics,237.45,2715
+216,Furniture,194.01,4727
+217,Fashion,36.43,2777
+218,Furniture,62.27,5816
+219,Beauty & Personal Care,66.09,1354
+220,Electronics,669.86,5618
+221,Toys & Games,80.15,3750
+222,Mobile Accessories,22.72,4812
+223,Furniture,155.25,837
+224,Beauty & Personal Care,6.63,3638
+225,Sports & Outdoors,59.74,6541
+226,Toys & Games,134.28,1312
+227,Fashion,49.54,2853
+228,Home & Kitchen,95.03,3998
+229,Mobile Accessories,16.22,6205
+230,Electronics,231.23,4590
+231,Toys & Games,80.77,2250
+232,Home & Kitchen,155.86,3364
+233,Furniture,339.7,3659
+234,Fashion,17.93,6342
+235,Fashion,75.26,4039
+236,Furniture,326.99,1722
+237,Groceries,10.34,3338
+238,Mobile Accessories,115.34,1706
+239,Furniture,762.58,5146
+240,Furniture,694.84,2117
+241,Beauty & Personal Care,40.34,686
+242,Sports & Outdoors,135.54,6463
+243,Toys & Games,83.89,2749
+244,Mobile Accessories,84.79,833
+245,Home & Kitchen,178.52,5602
+246,Toys & Games,30.72,3569
+247,Books & Stationery,31.51,2953
+248,Beauty & Personal Care,40.02,2727
+249,Books & Stationery,52.62,4965
+250,Electronics,583.02,6405
