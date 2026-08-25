@@ -23,4 +23,4 @@ Data Model
 
 Six linked tables: customers, orders, order_items, products, payments, reviews — joined primarily through order_id and customer_id.
 
-Author: Layan Khayyat — BIT Student, Princess Sumaya University for Technology
+
