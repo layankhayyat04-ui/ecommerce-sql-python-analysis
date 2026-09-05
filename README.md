@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:134E5E,100:71B280&height=180&section=header&text=E-Commerce%20Sales%20Analysis&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=SQL%20%2B%20Python%20%C2%B7%2012%2C000%20Orders%20Analyzed&descAlignY=62&descSize=15" />
+<img width="100%" src="https://raw.githubusercontent.com/layankhayyat04-ui/ecommerce-sql-python-analysis/main/assets/banner.svg" alt="banner"/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-complete-134E5E?style=for-the-badge"/>
@@ -26,7 +26,9 @@ Analysis of 12,000 e-commerce orders across 3,000 customers and 250 products, us
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sqlite,pandas&theme=light" />
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sqlite/sqlite.png"></code>&nbsp;
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pandas/pandas.png"></code>
 </p>
 
 - **SQL (SQLite)** — joins, CTEs, conditional aggregation across a 6-table relational schema
@@ -54,5 +56,3 @@ cd SQL
 python load_db.py      # loads CSVs into SQLite
 python analysis.py      # runs the 8 queries and generates charts
 ```
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:71B280,100:134E5E&height=80&section=footer" />
